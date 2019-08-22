@@ -43,7 +43,7 @@ import time
 
 
 
-class networkanalysis: #Add comments, use #%%, also break up NN and annotation codes to two files, also make pixel difference code. Either underscore or cap letter in names.
+class networkanalysis:
     '''
     Class for running a neural network analysis instance. 
     
